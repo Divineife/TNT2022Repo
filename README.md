@@ -10,3 +10,4 @@ This is to test remote repository
 Week 2
 
 More data on Divine branch
+Patrick has made a few more major changes
